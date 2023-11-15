@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jaredreimer.github.io",
+    "description": "",
+    "home_page_url": "http://jaredreimer.github.io",
+    "feed_url": "http://jaredreimer.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jared Reimer"
+    },
+    "items": [
+        {
+            "id": "http://jaredreimer.github.io/hello.html",
+            "url": "http://jaredreimer.github.io/hello.html",
+            "title": "Hello",
+            "summary": "World.",
+            "content_html": "<p>World.</p>\n<p> </p>",
+            "author": {
+                "name": "Jared Reimer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-15T12:04:48-08:00",
+            "date_modified": "2023-11-15T12:04:48-08:00"
+        }
+    ]
+}
