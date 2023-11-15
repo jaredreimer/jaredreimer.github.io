@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "http://jaredreimer.github.io/hello.html",
-            "url": "http://jaredreimer.github.io/hello.html",
+            "id": "http://jaredreimer.github.io/hello/",
+            "url": "http://jaredreimer.github.io/hello/",
             "title": "Hello World",
             "summary": "Massively Theme.",
             "content_html": "<p>Massively Theme.</p>\n<p> </p>",
