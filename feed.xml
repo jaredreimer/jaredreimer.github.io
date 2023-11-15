@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>jaredreimer.github.io</title>
+    <title>Jared Reimer</title>
     <link href="http://jaredreimer.github.io/feed.xml" rel="self" />
     <link href="http://jaredreimer.github.io" />
     <updated>2023-11-15T12:09:32-08:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>Jared Reimer</name>
         </author>
-        <link href="http://jaredreimer.github.io/hello/"/>
-        <id>http://jaredreimer.github.io/hello/</id>
+        <link href="http://jaredreimer.github.io/hello.html"/>
+        <id>http://jaredreimer.github.io/hello.html</id>
 
         <updated>2023-11-15T12:09:32-08:00</updated>
             <summary>

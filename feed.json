@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "jaredreimer.github.io",
+    "title": "Jared Reimer",
     "description": "",
     "home_page_url": "http://jaredreimer.github.io",
     "feed_url": "http://jaredreimer.github.io/feed.json",
@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "http://jaredreimer.github.io/hello/",
-            "url": "http://jaredreimer.github.io/hello/",
+            "id": "http://jaredreimer.github.io/hello.html",
+            "url": "http://jaredreimer.github.io/hello.html",
             "title": "Hello World",
             "summary": "Massively Theme.",
             "content_html": "<p>Massively Theme.</p>\n<p> </p>",
