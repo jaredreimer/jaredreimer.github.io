@@ -14,6 +14,7 @@
             "id": "http://jaredreimer.github.io/hello-world-2.html",
             "url": "http://jaredreimer.github.io/hello-world-2.html",
             "title": "Hello World 2",
+            "summary": "More&hellip;",
             "content_html": "<p>More action</p>\n<p> </p>",
             "author": {
                 "name": "Jared Reimer"
@@ -27,6 +28,7 @@
             "id": "http://jaredreimer.github.io/hello.html",
             "url": "http://jaredreimer.github.io/hello.html",
             "title": "Hello World",
+            "summary": "Massively&hellip;",
             "content_html": "<p>Massively Theme.</p>\n<p> </p>",
             "author": {
                 "name": "Jared Reimer"
