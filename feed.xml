@@ -3,29 +3,29 @@
     <title>jaredreimer.github.io</title>
     <link href="http://jaredreimer.github.io/feed.xml" rel="self" />
     <link href="http://jaredreimer.github.io" />
-    <updated>2023-11-15T12:04:48-08:00</updated>
+    <updated>2023-11-15T12:09:32-08:00</updated>
     <author>
         <name>Jared Reimer</name>
     </author>
     <id>http://jaredreimer.github.io</id>
 
     <entry>
-        <title>Hello</title>
+        <title>Hello World</title>
         <author>
             <name>Jared Reimer</name>
         </author>
         <link href="http://jaredreimer.github.io/hello.html"/>
         <id>http://jaredreimer.github.io/hello.html</id>
 
-        <updated>2023-11-15T12:04:48-08:00</updated>
+        <updated>2023-11-15T12:09:32-08:00</updated>
             <summary>
                 <![CDATA[
-                    World.
+                    Massively Theme.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>World.</p>
+                <p>Massively Theme.</p>
 <p> </p>
             ]]>
         </content>
