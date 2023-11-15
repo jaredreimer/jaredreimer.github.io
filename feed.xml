@@ -18,11 +18,7 @@
         <id>http://jaredreimer.github.io/hello-world-2.html</id>
 
         <updated>2023-11-15T12:38:43-08:00</updated>
-            <summary>
-                <![CDATA[
-                    More action
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 <p>More action</p>
@@ -39,11 +35,7 @@
         <id>http://jaredreimer.github.io/hello.html</id>
 
         <updated>2023-11-15T12:09:32-08:00</updated>
-            <summary>
-                <![CDATA[
-                    Massively Theme.
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 <p>Massively Theme.</p>
